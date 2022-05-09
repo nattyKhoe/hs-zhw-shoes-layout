@@ -23,5 +23,21 @@
 }
 
 /* Positioning Classes */
+#sale, #featured, #archive, #small{
+  margin: 3% 1% 0 0;
+  display: block;
+  float: left;
+}
 
+#featured{
+  width:65%;
+  min-height: 37.7em;
+}
 
+#archive{
+  width: 32%;
+}
+
+#small{
+  width: 32%;
+}
